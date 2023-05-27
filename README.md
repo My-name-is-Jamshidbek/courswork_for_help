@@ -10,9 +10,9 @@ This is a Telegram bot built using the aiogram library. It provides [list the fe
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/your-repo.git
+1. Clone the repository: git clone https://github.com/My-name-is-Jamshidbek/courswork_for_help.git
 2. Configure the bot:
-
+bot
 - Open `config.py` and replace `'TOKEN'` with your actual Telegram Bot API token.
 
 ## Usage
